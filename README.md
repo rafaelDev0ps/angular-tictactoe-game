@@ -1,4 +1,7 @@
-# TicTacToe
+<p align="center">
+  <img width="300" src="src/assets/icons/ttt_icon.png">
+  <img src="src/assets/icons/tic_tac_toe.png">
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
